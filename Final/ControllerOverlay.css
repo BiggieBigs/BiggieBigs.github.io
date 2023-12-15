@@ -109,7 +109,7 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(XObuttons.png);
+    background: url(XO buttons.png);
 }
 
 .ds4 .button.pressed {
@@ -224,5 +224,3 @@
     background-position-y: 52px;
 
 }
-
-/*END PS4 Controller Styling*/
